@@ -1,0 +1,10 @@
+.idea
+.DS_Store
+
+*.iml
+*.zip
+*.png
+*.svg
+*.xlsx
+cache/*
+
